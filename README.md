@@ -7,4 +7,5 @@ Repository for CS20S
 
 here is a link: [Markdown help](https://github.com)
 
+here is a image ![GitHug logo](github-octocat.png)
 
